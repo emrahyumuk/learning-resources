@@ -32,9 +32,11 @@ Docker Öğrenmek için Kaynaklar
 
 - <kbd>Blog</kbd> <kbd>EN</kbd> [Local Development with Docker Compose](https://devcenter.heroku.com/articles/local-development-with-docker-compose)
 
-- <kbd>Blog</kbd> <kbd>TR</kbd> [Docker Swarm Mode Introduction](https://medium.com/@caysever/docker-swarm-mode-introduction-33fe8da9b4b6)
-
 - <kbd>Resources</kbd> <kbd>TR</kbd> [Docker İzmir - Docker Resources](https://github.com/dockerizmir/docker-resources)
+
+- <kbd>Blog</kbd> <kbd>TR</kbd> [Docker Swarm Mode Özellikleri, Mimarisi ve Kullanımı](http://devnot.com/2017/docker-swarm-mode-ozellikleri-mimarisi-ve-kullanimi/)
+
+- <kbd>Video</kbd> <kbd>TR</kbd> [Docker Swarm Mode ile Container Orkestrasyonu](https://www.youtube.com/watch?v=cNbCG6Nih3Q) <kbd>2:02:41</kbd> 
 
 
 
