@@ -40,5 +40,7 @@ Docker Öğrenmek için Kaynaklar
 
 - <kbd>Project</kbd> [Example Voting App](https://github.com/dockersamples/example-voting-app)
 
+- <kbd>Doc</kbd> <kbd>EN</kbd> [Deploy a stack to a swarm](https://docs.docker.com/engine/swarm/stack-deploy/)
+
 
 
