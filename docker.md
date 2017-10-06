@@ -12,6 +12,8 @@ Docker Öğrenmek için Kaynaklar
 
  - <kbd>Project</kbd> [A simple Node/MongoDB/Angular todo app](https://github.com/emrahyumuk/node-todo)
 
+- <kbd>Awesome</kbd> <kbd>EN</kbd> [Awesome Docker](https://veggiemonk.github.io/awesome-docker/)
+
 - <kbd>Video</kbd> <kbd>TR</kbd> [Tüm Yönleri ile Docker](https://www.youtube.com/watch?v=Wyr8_tsjKlE)  <kbd>2:14:09</kbd> 
 
 - <kbd>Video</kbd> <kbd>TR</kbd> [Uygulamalar ile Docker](https://www.youtube.com/watch?v=bJSqh7fFOUI) <kbd>1:53:06</kbd> 
