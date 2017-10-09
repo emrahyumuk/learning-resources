@@ -13,6 +13,8 @@ Node.js Öğrenmek için Kaynaklar
 
 - <kbd>Blog</kbd> <kbd>EN</kbd> [Angular Modules: Controllers and Services [Part 3]](https://scotch.io/tutorials/node-and-angular-to-do-app-controllers-and-services)
 
+- <kbd>Blog</kbd> <kbd>EN</kbd> [Mongoose Connection best practice](http://theholmesoffice.com/mongoose-connection-best-practice/)
+
 - <kbd>Guide</kbd> <kbd>EN</kbd> [Your Guide to Building Beautiful Node.js Applications](http://thenodeway.io/)
 
 - <kbd>Awesome</kbd> <kbd>EN</kbd> [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs)
