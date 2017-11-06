@@ -4,13 +4,11 @@ Docker Öğrenmek için Kaynaklar
 
  - <kbd>Blog</kbd> <kbd>TR</kbd> [Nedir, Nasıl Çalışır, Nerede Kullanılır?](http://www.gokhansengun.com/docker-nedir-nasil-calisir-nerede-kullanilir/)
 
- - <kbd>Blog</kbd> <kbd>TR</kbd> [Yeni bir Docker Image'ı Nasıl Hazırlanır?](http://www.gokhansengun.com/docker-yeni-image-hazirlama/)
-
  - <kbd>Video</kbd> <kbd>EN</kbd> [Learn Docker in 12 Minutes](https://www.youtube.com/watch?v=YFl2mCHdv24) <kbd>0:12:00</kbd> 
- 
- - <kbd>Blog</kbd> <kbd>TR</kbd> [Docker Compose Hangi Amaçlarla ve Nasıl Kullanılır?](http://www.gokhansengun.com/docker-compose-nasil-kullanilir/) 
 
- - <kbd>Project</kbd> [A simple Node/MongoDB/Angular todo app](https://github.com/emrahyumuk/node-todo)
+ - <kbd>Blog</kbd> <kbd>TR</kbd> [Yeni bir Docker Image'ı Nasıl Hazırlanır?](http://www.gokhansengun.com/docker-yeni-image-hazirlama/)
+ 
+- <kbd>Blog</kbd> <kbd>TR</kbd> [Docker Compose Hangi Amaçlarla ve Nasıl Kullanılır?](http://www.gokhansengun.com/docker-compose-nasil-kullanilir/) 
 
 - <kbd>Awesome</kbd> <kbd>EN</kbd> [Awesome Docker](https://veggiemonk.github.io/awesome-docker/)
 
@@ -19,6 +17,10 @@ Docker Öğrenmek için Kaynaklar
 - <kbd>Video</kbd> <kbd>TR</kbd> [Uygulamalar ile Docker](https://www.youtube.com/watch?v=bJSqh7fFOUI) <kbd>1:53:06</kbd> 
 
 - <kbd>Blog</kbd> <kbd>EN</kbd> [Dockerizing a Node.js web app](https://nodejs.org/en/docs/guides/nodejs-docker-webapp/)
+
+- <kbd>Blog</kbd> <kbd>EN</kbd> [Docker Container Linking - MongoDB and NodeJS](https://www.thachmai.info/2015/05/10/docker-container-linking-mongo-node/)
+
+- <kbd>Project</kbd> [A simple Node/MongoDB/Angular todo app](https://github.com/emrahyumuk/node-todo)
 
 - <kbd>Project</kbd> [Load Balancing Node.js Application with Docker and HAProxy](https://github.com/emrahyumuk/docker-load-balancer-app)
 
@@ -49,6 +51,8 @@ Docker Öğrenmek için Kaynaklar
 - <kbd>Project</kbd> [Example Voting App](https://github.com/dockersamples/example-voting-app)
 
 - <kbd>Doc</kbd> <kbd>EN</kbd> [Deploy a stack to a swarm](https://docs.docker.com/engine/swarm/stack-deploy/)
+
+
 
 
 
