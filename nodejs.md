@@ -19,4 +19,8 @@ Node.js Öğrenmek için Kaynaklar
 
 - <kbd>Awesome</kbd> <kbd>EN</kbd> [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs)
 
+https://scotch.io/tutorials/test-a-node-restful-api-with-mocha-and-chai
+
+https://semaphoreci.com/community/tutorials/a-tdd-approach-to-building-a-todo-api-using-node-js-and-mongodb
+
 
