@@ -22,6 +22,8 @@ Docker Öğrenmek için Kaynaklar
 
 - <kbd>Project</kbd> [A simple Node/MongoDB/Angular todo app](https://github.com/emrahyumuk/node-todo)
 
+- <kbd>Awesome</kbd> <kbd>EN</kbd> [Docker Captains and Our Projects](https://github.com/docker-captains/about)
+
 - <kbd>Project</kbd> [Load Balancing Node.js Application with Docker and HAProxy](https://github.com/emrahyumuk/docker-load-balancer-app)
 
 - <kbd>Blog</kbd> <kbd>TR</kbd> [Docker 1.13 ile gelen yenilikler](https://blog.kloia.com/docker-1-13-ile-gelen-yenilikler-339c8f99172a)
