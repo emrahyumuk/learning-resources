@@ -42,6 +42,8 @@ Docker Öğrenmek için Kaynaklar
 
 - <kbd>Blog</kbd> <kbd>EN</kbd> [Live Debugging with Docker](https://blog.docker.com/2016/07/live-debugging-docker/)
 
+- <kbd>Blog</kbd> <kbd>EN</kbd> [A sample Docker workflow with Nginx, Node.js and Redis](http://anandmanisankar.com/posts/docker-container-nginx-node-redis-example/)
+
 - <kbd>Resources</kbd> <kbd>TR</kbd> [Docker İzmir - Docker Resources](https://github.com/dockerizmir/docker-resources)
 
 - <kbd>Blog</kbd> <kbd>EN</kbd> [My Docker Run Cheatsheet](https://getintodevops.com/blog/confessions-of-a-programmer-my-docker-run-cheatsheet)
