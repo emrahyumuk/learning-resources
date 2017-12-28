@@ -46,3 +46,5 @@ https://jenkins.io/doc/book/pipeline/syntax/#agent
 https://www.levvel.io/our-ideas/building-devops-artifact-pipeline-for-docker-containers
 
 https://go.cloudbees.com/docs/cloudbees-documentation/cje-user-guide/index.html#docker-workflow
+
+https://kodcu.com/2017/11/dockerize-jenkins-pipeline-tutorial/
